@@ -7,8 +7,10 @@
 
  
 
-  
+  <br>
+ 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&weight=500&pause=1000&color=346B94&background=D290FF00&width=435&lines=Hey+%F0%9F%91%8B+my+name+is+Boris+;Welcome+to+my+profile+%F0%9F%92%A5+%F0%9F%92%A5+%F0%9F%92%A5" alt="Typing SVG" /></a>
+ 
 
  
 
@@ -42,7 +44,7 @@ I am  Computer & Data Sienece student  <img src="https://media.giphy.com/media/W
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" title="Linux" alt="Linux width="40" height="40"/>&nbsp;
 <div>
         
-
+<br>
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=borisTL&style=flat-square&color=blue" alt=""/>
  </div> 
