@@ -33,6 +33,5 @@
 ### ::man_technologist: About Me :
 I am  Computer & Data Sienece student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
 - :books: 2nd Year with GPA  85.
-- :boom: Looking for a job in Data Science.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BorisTeplitskiy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-teplitskiy-54a490249)
