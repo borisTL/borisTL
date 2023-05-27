@@ -4,16 +4,11 @@
 
 
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=borisTL&style=flat-square&color=blue" alt=""/>
- </div> 
+
  
- <div align="center">
- <h1>
- Hey there
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- </h1>
- </div>
+
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&weight=500&pause=1000&color=346B94&background=D290FF00&width=435&lines=Hey+%F0%9F%91%8B+my+name+is+Boris+;Welcome+to+my+profile+%F0%9F%92%A5+%F0%9F%92%A5+%F0%9F%92%A5" alt="Typing SVG" /></a>
 
  
 
@@ -46,25 +41,15 @@ I am  Computer & Data Sienece student  <img src="https://media.giphy.com/media/W
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png" title="Vwmare" alt="Vwmare width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" title="Linux" alt="Linux width="40" height="40"/>&nbsp;
 <div>
-                                                                                                                                                  
-                                                                                                                                                  
-<br> 
-                                                                                                                                                  <br> 
-                                                                                                                                                  
-   <div align="center">
- <h1>
- Contact:
-  
-</h1>
-  </div>                                                                                                                          
-                                                                                                                                                  
-<div id="header" align="center">
-  
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+        
 
- </div>
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=borisTL&style=flat-square&color=blue" alt=""/>
+ </div> 
+                                                                                                                                                 
+                                                                                                                                                
+                                                                                                                                                  
+   
                                                                                                                              
    
                                                                                                                                                 
