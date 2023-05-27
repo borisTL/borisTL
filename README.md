@@ -8,20 +8,16 @@
  
 
   <br>
- 
+  <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&weight=500&pause=1000&color=346B94&background=D290FF00&width=435&lines=Hey+%F0%9F%91%8B+my+name+is+Boris+;Welcome+to+my+profile+%F0%9F%92%A5+%F0%9F%92%A5+%F0%9F%92%A5" alt="Typing SVG" /></a>
+   <div>
  
 
- 
-
-### ::man_technologist: About Me :
+ ### ::man_technologist: About Me :
 I am  Computer & Data Sienece student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
 - :books: 2nd Year with GPA  85.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BorisTeplitskiy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-teplitskiy-54a490249)
-
-
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
