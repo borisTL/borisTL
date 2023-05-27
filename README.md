@@ -50,9 +50,7 @@ I am  Computer & Data Sienece student  <img src="https://media.giphy.com/media/W
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" alt="unity width="40" height="40"/>&nbsp;
  <div>
-                                                                                                                                                  
- ### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)                                                                                                                                                 
+                                                                                                                                                
                                                                                                                                                   
                                                                                        
                                                                                                                                                   
