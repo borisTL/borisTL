@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://www.behance.net/gallery/166434737/Dream-Desktop/modules/938608279" width="100"/>
+  <img src="https://media.giphy.com/media/pI43YlhMoPqsE/giphy.gif" width="100"/>
 </div>
