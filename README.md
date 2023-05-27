@@ -31,6 +31,8 @@ I am  Computer & Data Sienece student  <img src="https://media.giphy.com/media/W
  <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+   <img src="https://images.sftcdn.net/images/t_app-icon-s/p/4b2ef7a8-96da-11e6-a2cf-00163ed833e7/190716152/bluej-ICON.png" title="BlueJ" alt="BlueJ width="40" height="40"/>&nbsp;
+   <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" title="eclipse" alt="eclipse width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" alt="unity width="40" height="40"/>&nbsp;
                                                                                                                                                 
 <div>
@@ -39,8 +41,7 @@ I am  Computer & Data Sienece student  <img src="https://media.giphy.com/media/W
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png" title="Vwmare" alt="Vwmare width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" title="Linux" alt="Linux width="40" height="40"/>&nbsp;
-  <img src="https://images.sftcdn.net/images/t_app-icon-s/p/4b2ef7a8-96da-11e6-a2cf-00163ed833e7/190716152/bluej-ICON.png" title="BlueJ" alt="BlueJ width="40" height="40"/>&nbsp;
-   <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" title="eclipse" alt="eclipse width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" alt="unity width="40" height="40"/>&nbsp;
    
 <div>
         
