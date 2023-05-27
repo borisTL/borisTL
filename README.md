@@ -2,20 +2,7 @@
   <img src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/5c7bd8bcc33b5478-02/s1280x1920/92566a2d5fc5c4d08e40d38fc23280518e40a36c.gifv"/>
 </div>
 
-<div id="header" align="center">
-  
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a>
- </div>
+
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=borisTL&style=flat-square&color=blue" alt=""/>
@@ -50,6 +37,31 @@ I am  Computer & Data Sienece student  <img src="https://media.giphy.com/media/W
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" alt="unity width="40" height="40"/>&nbsp;
  <div>
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+<div id="header" align="center">
+  
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+ </div>
+                                                                                                                             
+    <div align="center">
+ <h1>
+ Contact:
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  </div>                                                                                                                          
+  
                                                                                                                                                 
                                                                                                                                                   
                                                                                        
