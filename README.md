@@ -34,4 +34,4 @@
 I am  Computer & Data Sienece student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
 - :telescope: I am a 2 year student at the Open University and my GPA is 85.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-teplitskiy-54a490249)
+- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Boris Teplitskiy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-teplitskiy-54a490249)
