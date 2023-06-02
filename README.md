@@ -13,7 +13,7 @@
    <div>
  
 
- ### ::man_technologist: About Me :
+ ### :man_technologist: About Me :
 I am  Computer & Data Science student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
 - :books: 2nd Year with GPA  85.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
