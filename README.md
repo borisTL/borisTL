@@ -34,7 +34,7 @@ I am a Computer & Data Science student <img src="https://media.giphy.com/media/W
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png" title="VMware" alt="VMware" width="40" height="40" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" title="Linux" alt="Linux" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" title="Vim" alt="Vim" width="40" height="40" />&nbsp;
 </div>
 
 <br>
