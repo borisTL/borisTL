@@ -4,7 +4,7 @@
 I am a student in my final year of studying computer and data science.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 My interest in information technology started with studying Python and applying it in various projects.
 - :zap:My goal is to become an outstanding developer specializing in creating innovative and effective software solutions.
-I am actively learning and improving my programming skills in languages such as Python, C, R, and others, as well as in algorithms and data structures.
+I am actively learning and improving my programming skills in languages such as Python, C,  and others, as well as in algorithms and data structures.
 - :mailbox: I would be glad to share my experience and learn together with the developer community, so feel free to reach out to me through my social media profiles or via email.
 Let's create something amazing together!
 
