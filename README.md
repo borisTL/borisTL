@@ -27,11 +27,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-<h2 align="center">Projects</h2>
-<p align="center">
-  <a href="https://github.com/borisTL/MLAlgorithmCraft">MLAlgorithmCraft</a> - An open project for students to develop machine learning algorithms.<br>
-  <a href="https://github.com/borisTL/Hand-and-Eye-Tracking-Control">Hand and Eye Tracking Control</a> - An application for controlling the mouse cursor using hand gestures.
-</p>
+
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
