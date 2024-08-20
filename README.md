@@ -35,7 +35,6 @@
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
- 
-  <a href="mailto:teplitskiyb@gmail.com">Email</a>
+  <a href="mailto:teplitskiyb@gmail.com" >Email</a>
 </p>
 
